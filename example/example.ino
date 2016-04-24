@@ -1,5 +1,8 @@
 #include <UM7.h>
 
+//Connect the RX pin on the UM7 to TX1 (pin 18) on the DUE
+//Connect the TX pin on the UM7 to RX1 (pin 19) on the DUE
+
 UM7 imu;
 
 
